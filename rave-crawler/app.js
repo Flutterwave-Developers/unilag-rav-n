@@ -12,5 +12,4 @@ app.use(cookieParser());
 
 app.use('/dominos', dominos);
 
-
 module.exports = app;

@@ -48,17 +48,11 @@ const dominos = async (req, res) => {
     const browser = await puppeteer.launch({
         timeout,
         headless: options.headless,
-        userDataDir: `${options.userDataDir}`
+        userDataDir: `${options.userDataDir}`, args: [
+        '--disable-extensions-except=./chrome_extension/',
+        '--load-extension=./chrome_extension/'
+    ]
     });
-
-
-
-// ,
-//     args: [
-//         '--disable-extensions-except=./chrome_extension/',
-//         '--load-extension=./chrome_extension/'
-//     ]
-
     let page = await browser.newPage();
 
     process.browser = browser;
