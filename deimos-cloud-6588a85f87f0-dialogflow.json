@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deimos-cloud",
+  "private_key_id": "6588a85f87f0dbc6c248098bf743a6e5a51ea8af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpN05bRniz7tNV\n/nsT+C55W1uIii6u3wGLH+fTHWzYfH+o1AJuOiWDE6paxCQF0wYqAVyZJb94c2RC\nE08UH4N4n5Cy4IP+XjuSr8uOGclw6NSPGKRMiNIbTD9S2vRn+GSXEz1lhQmZ59tN\nirRVoZgktWaEMrkQuAaqV5/LtqZfKhCrHK8uQYKhKq3mAD/GjwyA9eA2An/tN4/k\nNcwi0I6pNXz9+S8QgNYsmWzQD/MJkvE8d56Bbz27uZixIF+NUov7nH7114AJ3L5Z\nZRKf2RgBNjYUC6nGZgr2alF/qGf0P5xJDc/bi8X/IoHePgG/6s5KNDWw82MZJFm6\ncK+00B8JAgMBAAECggEAGQOr+aI5RaAQba3o09LkS9xNc6m5rPAack6NHpBC/t2o\noXR1x4Wg9fd6P2CvUo0XZC4/WgRSgaPNNldUYU0nSjWMVmUKHhggBlcmaCM3vBEv\nGtgxsX6oUJC866qiZpw5gnu9n7xC5xV3Pcc7UU1KCGMofHJjGS2bDqNVY+/kODzq\nHn0bkwYqQ3T4Qi4Kf56UszehtoShbI87x2D9zv/k3H052JSDAWxYJ/sYopbgAk+F\nqooGxXsm5EluxWybhMgidqHGBbb95PJ5yduE9Ui5OHxFMBQCJ7UiYQhokC+x/w4j\nuYM7BdUeG3TJAmoaLqBZky6b06eLEobgYcaaw7Y1YQKBgQDTvtwF9EMbZHV050Rq\nP9RhFWfSJh6BMNyRNujwZKV/IeZ3QxKGHsMwellXjJsgtxcUrS8VcqWjZg2LufXv\njlDUt7FRklmMgJEfZ6wDDeo9BaF43LwSnN4iP1fkbsFhU8i1foxqlN/If1aV8G2T\nohQp9dpfgTpWGt8Ls76qGVcqmwKBgQDMlPd2sxPTbcWdAfMYmbnr2Seb9RZPCNz+\ngJHY/rRdoQs1WiAQlSqvhIDA+lOQVeDoxCPt6A0iRt2l1a0OFVFuk+z09aUs7otI\nyq+UTiLl8YAVdujLET07NTOSrcBIZ2JSnKkEo+TAZAb+jYwHJc34KQKOdqmnC7+g\nPeV7gTvVKwKBgQDESEVPI6ldaBdVYdhSoY6u3Bfcf0eBvJiJ6BuwU6vyGKu53Cv8\nteF8O7474PQgNHipyww9VoRi3oQqBR0MjqExPoKZug9Wpgtg0EpsnmaHYIPZNM0G\nd/GWT5+a+mw6W19Pltp1JkH3assJvNDmrLUCXIusQm+gR9KA14MjzM+3hwKBgGE1\n48S2YRRVE9KAS6gD2/FytTyJH/mcJ46TPzpSBRh8XpwSYCwhBTBzkM6h5DUwaXeR\nQ9VXL257J/UV7G5FuPUHO1BGrR8Flo+XKAkbe7+xmoAYiZN8dJD+vavT/gspfPHu\nWO3IhvjYTu6ECeaXkyB5NCrHveOPVJXq83FVPj4TAoGAbJDeHVPDQR8jsROiDaSJ\nmr69grNADRJq0sZq1yA6dCvjLfA2A+hE0OATD+uFazyBcKplVeFGxO/Y/DvNkmLG\ng8mO/YH9Ym+fxCxxAop0xm6AYQShGIsxTfBlJVNmGk8SfRcYzDt3WYfhIlcqBP/z\ngDK01SydstK2ZiiEH/VmppM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ouhdwd@deimos-cloud.iam.gserviceaccount.com",
+  "client_id": "117104285051196584606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ouhdwd%40deimos-cloud.iam.gserviceaccount.com"
+}
