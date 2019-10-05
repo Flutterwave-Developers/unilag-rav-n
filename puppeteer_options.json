@@ -1,9 +1,0 @@
-{
-  "timeout": 0,
-  "waitUntil": "networkidle2",
-  "headless": false,
-  "javascriptEnabled": true,
-  "userDataDir": "./data",
-  "cacheEnabled": true,
-  "disabledResources": []
-}
